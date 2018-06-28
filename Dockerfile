@@ -1,7 +1,7 @@
 FROM 32bit/ubuntu:14.04
 MAINTAINER aaaSoft <scbeta@qq.com>
 
-ENV SUBMIN_VERSION 2.2.1-1
+ENV SUBMIN_VERSION 2.2.2-1
 
 RUN apt-get update \
     && apt-get install -y --no-install-recommends \

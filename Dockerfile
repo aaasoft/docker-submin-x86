@@ -1,4 +1,4 @@
-FROM 32bit/ubuntu:14.04
+FROM i386/debian:jessie
 MAINTAINER aaaSoft <scbeta@qq.com>
 
 ENV SUBMIN_VERSION 2.2.1-1
